@@ -1,3 +1,7 @@
+## 📺 Project Demo
+
+https://youtu.be/E4rTYlLNCkI
+
 # Chatbot (A.B Deliveries)
 
 Full-stack Hebrew chatbot for customer service and delivery inquiries. FastAPI backend with Google Gemini and a React (Vite) frontend.
